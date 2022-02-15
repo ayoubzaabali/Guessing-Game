@@ -2,7 +2,7 @@
 Guessing game - Vue.js
 ==============
 
-simple card matching game using Vue.js 3
+On the game board, there are always two identical images your role is to find all the images that matche , this is my simple card matching game using Vue.js 3
 
 ## Project setup
 ```

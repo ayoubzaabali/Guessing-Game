@@ -22,8 +22,6 @@ npm run build
 screenshot
 ------
 
-functionality overview with screenshots.
-<h3 align="left">Landing Page:</h3>
 
 
 ![FireShot Capture 008 - guess_game - localhost](https://user-images.githubusercontent.com/78790570/154059296-20ffafa9-7cd1-4ad8-bd5d-3ed7d0377609.png)
